@@ -29,3 +29,5 @@ Adjunto dos ficheros de código:
 
 2. **Código con Early Stopping, Matriz de Confusión y Optuna**:  
    Este fichero incluye lo anterior, pero además añade la optimización de hiperparámetros utilizando **Optuna**. Aunque debo admitir que este apartado **se me ha ido de las manos** 😅.
+
+Me ha pillado el toro con el tiempo y no he podido dejarlo como me hubiera gustado, empecé bien pero me pudo el tiempo y la presion, sorry.
