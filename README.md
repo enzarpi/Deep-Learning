@@ -19,3 +19,13 @@ Por último, he de mencionar que he tenido dificultades para seguir las clases d
 ## Reflexión final
 
 A pesar de todas las dificultades, este proyecto ha sido una experiencia única y enriquecedora que me ha permitido explorar nuevas áreas técnicas y enfrentarme a retos reales. Soy consciente de que aún hay muchas áreas por mejorar, pero valoro todo lo aprendido durante este proceso. Agradezco de antemano cualquier feedback para seguir creciendo y mejorando en futuros proyectos.
+
+### Postdata
+
+Adjunto dos ficheros de código:
+
+1. **Código con Early Stopping y Matriz de Confusión**:  
+   Este fichero incluye la implementación del entrenamiento con **early stopping** y la generación de una **matriz de confusión** para analizar los resultados.
+
+2. **Código con Early Stopping, Matriz de Confusión y Optuna**:  
+   Este fichero incluye lo anterior, pero además añade la optimización de hiperparámetros utilizando **Optuna**. Aunque debo admitir que este apartado **se me ha ido de las manos** 😅.
